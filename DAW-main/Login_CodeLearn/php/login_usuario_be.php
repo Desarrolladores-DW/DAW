@@ -16,7 +16,7 @@
         echo '
         <script>
             alert("Usuario no existente");
-            window.location = "/DAW-main/DAW-main/index.html";
+            window.location = "../index.php";
         </script>
         ';
         exit;
